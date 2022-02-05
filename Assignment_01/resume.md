@@ -14,7 +14,7 @@
 
 Skilled data engineer (includes data structures, algorithms) with work experience in data management and analysis. I am seeking a challenging opportunity to work with large real-time data driven projects where I can use my advanced skills and experience to advance with the organization.
 
-# Education Background
+## Education Background
 University of Maryland, Baltimore County, MD, United States of America
 
 * Master of Science in Data Science	  
