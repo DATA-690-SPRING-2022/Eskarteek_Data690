@@ -67,9 +67,9 @@ Tech Stack: Python, Tableau, Random Forest Regression, Polynomial feature, KNN R
 *	Extracted sensor data from Oracle DB and optimized query performance up to 30% using indexes, joins, subqueries to generate dashboards using Tableau.
 
 ## Certifications
-*Python for Data Science by IBM
-*SQL and Database Design  A-Z by Udemy
-*Machine Learning with Python by IBM
+* Python for Data Science by IBM
+* SQL and Database Design  A-Z by Udemy
+* Machine Learning with Python by IBM
 
 ## Awards
 *	Earned Golden Badge in both python and SQL on Hacker Rank.
