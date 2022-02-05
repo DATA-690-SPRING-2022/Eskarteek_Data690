@@ -20,7 +20,10 @@ University of Maryland, Baltimore County, MD, United States of America
 * Master of Science in Data Science	  
 
 Great Lakes Institute of Management Chennai, India                	                                     			                                       
-* Post-Graduation-Program in Data Science and Engineering	
+* Post-Graduation-Program in Data Science and Engineering
+
+## Skills
+Python, SQL, Java, Tableau, Scala, Apache Spark, NumPy, Pandas, SciPy, scikit-learn, Keras, TensorFlow, NLTK, Open CV, PyTorch, Hadoop MapReduce, Hive, MongoDB, Spark ML, MSSQL, MySQL, NoSQL, SQL Server, MS Excel.
 
 ## Projects
 
@@ -59,11 +62,16 @@ Tech Stack: Python, Tableau, Random Forest Regression, Polynomial feature, KNN R
 *	Worked with business stakeholders to understand their requirements to build, design and test Tableau dashboards.
 *	Extracted sensor data from Oracle DB and optimized query performance up to 30% using indexes, joins, subqueries to generate dashboards using Tableau.
 
+## Certifications
+*Python for Data Science by IBM
+*SQL and Database Design  A-Z by Udemy
+*Machine Learning with Python by IBM
 
+## Awards
+*	Earned Golden Badge in both python and SQL on Hacker Rank.
+*	Participated in hackathons conducted by kaggle.
 
-# Technical Skills
-Python, SQL, Java, Tableau, Scala, Apache Spark, NumPy, Pandas, SciPy, scikit-learn, Keras, TensorFlow, NLTK, Open CV, PyTorch, Hadoop MapReduce, Hive, MongoDB, Spark ML, MSSQL, MySQL, NoSQL, SQL Server, MS Excel.
-
-
-
+# Social Activities
+*	Internshala student partner working to promote internship opportunities and benifits among students.
+*	Worked as a volunteer for HAS (Humane Animal Society Coimbatore) and Snehalaya for Animals Coimbatore, India for Protecting and curing Street Dogs.
 
