@@ -28,7 +28,7 @@ Great Lakes Institute of Management Chennai, India
 
 Tech Stack: Spark NLP, Spark ML, MySQL, Python, Twitter API, Tableau
 
-•	Annotated the tweets and classify as Drug Event combination for more than a million tweets.
-•	Designed a model that returns all the possible side effects caused by a certain drug for the last 10 years. 
-•	Identified various ADE’s for drugs with 96.6% confidence
+*	Annotated the tweets and classify as Drug Event combination for more than a million tweets.
+*	Designed a model that returns all the possible side effects caused by a certain drug for the last 10 years. 
+* Identified various ADE’s for drugs with 96.6% confidence
 
