@@ -15,8 +15,9 @@
 Skilled data engineer (includes data structures, algorithms) with work experience in data management and analysis. I am seeking a challenging opportunity to work with large real-time data driven projects where I can use my advanced skills and experience to advance with the organization.
 
 # Education Background
-University of Maryland, Baltimore County                                   	                                                          Master of Science in Data Science	                  
-Great Lakes Institute of Management                  	                                     			                                 Chennai, India             
-Post-Graduation-Program in Data Science and Engineering	
+University of Maryland, Baltimore County                                   	                                                          *Master of Science in Data Science	  
+
+Great Lakes Institute of Management Chennai, India                	                                     			                                       
+*Post-Graduation-Program in Data Science and Engineering	
 
 
