@@ -6,9 +6,6 @@
 
 **Contact** df56654@umbc.edu | +1(631)464-2518
 
-**Nikhitha Alla**
-
-**contact:** +1 (443)936-5914
 
 * **A Student -** Pursuing Masters in Data Science
 * Data Science enthusiast
