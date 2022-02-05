@@ -27,26 +27,30 @@ Python, SQL, Java, Tableau, Scala, Apache Spark, NumPy, Pandas, SciPy, scikit-le
 
 ## Projects
 
-**Signal Detection for Adverse Drug Reaction using Twitter**/n
+**Signal Detection for Adverse Drug Reaction using Twitter**
+
 Tech Stack: Spark NLP, Spark ML, MySQL, Python, Twitter API, Tableau                                                           
 
 *	Annotated the tweets and classify as Drug Event combination for more than a million tweets.
 *	Designed a model that returns all the possible side effects caused by a certain drug for the last 10 years. 
 * Identified various ADE’s for drugs with 96.6% confidence
 
-**Stock Movement prediction using Sentient analysis on financial news**                                                                             
+**Stock Movement prediction using Sentient analysis on financial news** 
+
 Tech Stack: Sentiment analysis, Supervised Learning Classification (KNN), Web Scraping.
 *	This project is focused on analyzing intraday trading patterns which are highly dependent on financial news.
 * Scrapped thousands of financial news articles and classified based on sentiment vector.
 *	Using news sentiments and stock data, we achieved an accuracy score of 71.2% in predicting short-term stock movement.
 
-**Weather Forecasting model**                                                                                                                                                            
+**Weather Forecasting model**
+
 Tech Stack: Time Series Analysis/ Python
 *	Algorithms such as Random Forest Regression (RFR) and recurrent neural network (RNN) are used to compare accuracy and find optimal prediction. 
 * Built a Long short-term memory (LSTM) which is a type of recurrent neural network (RNN) architecture.
 *	Further compared with that of NASA’s weather dataset to see congruence and accuracy among both datasets.
 
-**Fright Analysis Framework**                                                                                                                                                             
+**Fright Analysis Framework**  
+
 Tech Stack: Python, Tableau, Random Forest Regression, Polynomial feature, KNN Regression, Ensemble Techniques
 * Describe and analyze the crucial factors that will improve freight movement and reduce congestion. 
 *	Built an ML Regression model to find influential factors and prediction of value to transport with 95% accuracy.
