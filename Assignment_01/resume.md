@@ -11,7 +11,7 @@
 **contact:** +1 (443)936-5914
 
 * **A Student -** Pursuing Masters in Data Science
-* **A Data Science enthusiast -
+* A Data Science enthusiast
 
 # Career Objective
 
