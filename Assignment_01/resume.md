@@ -28,6 +28,7 @@ Python, SQL, Java, Tableau, Scala, Apache Spark, NumPy, Pandas, SciPy, scikit-le
 ## Projects
 
 **Signal Detection for Adverse Drug Reaction using Twitter**
+
 Tech Stack: Spark NLP, Spark ML, MySQL, Python, Twitter API, Tableau
 
 *	Annotated the tweets and classify as Drug Event combination for more than a million tweets.
