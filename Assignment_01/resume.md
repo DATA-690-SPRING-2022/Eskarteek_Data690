@@ -61,6 +61,9 @@ Tech Stack: Python, Tableau, Random Forest Regression, Polynomial feature, KNN R
 
 
 
+# Technical Skills
+Python, SQL, Java, Tableau, Scala, Apache Spark, NumPy, Pandas, SciPy, scikit-learn, Keras, TensorFlow, NLTK, Open CV, PyTorch, Hadoop MapReduce, Hive, MongoDB, Spark ML, MSSQL, MySQL, NoSQL, SQL Server, MS Excel.
+
 
 
 
