@@ -22,10 +22,9 @@ University of Maryland, Baltimore County, MD, United States of America
 Great Lakes Institute of Management Chennai, India                	                                     			                                       
 * Post-Graduation-Program in Data Science and Engineering	
 
-# Projects
+## Projects
 
 **Signal Detection for Adverse Drug Reaction using Twitter**
-
 Tech Stack: Spark NLP, Spark ML, MySQL, Python, Twitter API, Tableau
 
 *	Annotated the tweets and classify as Drug Event combination for more than a million tweets.
@@ -49,6 +48,19 @@ Tech Stack: Python, Tableau, Random Forest Regression, Polynomial feature, KNN R
 * Describe and analyze the crucial factors that will improve freight movement and reduce congestion. 
 *	Built an ML Regression model to find influential factors and prediction of value to transport with 95% accuracy.
 *	 Helping the client to know if not exactly but almost the value of transporting one or many commodities to a certain location.
+
+## Industry Experience
+**Infosys Limited, Systems engineer**	                                                     Hyderabad, India Feb 2020 – Dec 2020
+*	Collaborated with cross functional teams and worked on projects as a Data engineer to create strong and optimized processes by utilizing Agile and Scrum methodologies.
+* Optimized data to ensure quality assurance by cleaning and standardization, worked on complex data sets to identify, analyze, and understand the trends or patterns in data.
+*	Analyzed vast amounts of data to discover and deal with data anomalies, prepare Data Quality Reports for clients to evaluate. 
+
+**Schneider electric systems, data science Intern**							                              Chennai, India May 2018-July 2018
+*	Worked with business stakeholders to understand their requirements to build, design and test Tableau dashboards.
+*	Extracted sensor data from Oracle DB and optimized query performance up to 30% using indexes, joins, subqueries to generate dashboards using Tableau.
+
+
+
 
 
 
