@@ -42,9 +42,9 @@
 
 #### WHY THIS TOPIC?
    - Infant Mortality Rates. 
-   - School enrollment is coming down at a very high pace in india. 
    - Employment indices.
    - Gender equality is a core development objective in its own right. 
+   - School enrollment is coming down at a very high pace in india. 
    - It is also smart development policy and sound business practice. It is integral to economic growth, business growth and good development outcomes. 
    - Gender equality can boost productivity, enhance prospects for the next generation, build resilience, and make institutions more representative and effective. 
    - I also wanted to look into the health sector, especially regarding female feticide which is one of the most disheartening things I’ve read in most of the articles when it comes to gender bias.
