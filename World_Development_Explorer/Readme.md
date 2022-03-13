@@ -41,9 +41,9 @@
 ## INTRODUCTION:
 
 #### WHY THIS TOPIC?
-   - Here we can look there is a gap between all the developed and developing counties like india and pakistan. You can argue that india has a lot of population but so does china. But they differ by almost 8 to 10 times. Health care facilities and awarness about child care should be improved in India and Pakistan.
-   - I was surprised by seeing this results, and am very curious to do my research on how school enrollment is coming down at a very high pace in india. 
-   - Employment indices,show pakistan is second after united states when it comes to male employment. I dont understand how an economically poor country made it to the second position of this list. This is one more area i would like to research for my project and provide analysis and solutions for others to improve. I know there is a cultural barrier for women to work in pakistan which brought down its position in female employment rates. 
+   - Infant Mortality Rates. 
+   - School enrollment is coming down at a very high pace in india. 
+   - Employment indices.
    - Gender equality is a core development objective in its own right. 
    - It is also smart development policy and sound business practice. It is integral to economic growth, business growth and good development outcomes. 
    - Gender equality can boost productivity, enhance prospects for the next generation, build resilience, and make institutions more representative and effective. 
